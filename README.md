@@ -1,56 +1,78 @@
-# 👋 Hi, I'm Abdullah Ahmed!  
+# 👋 Hi, I'm Abdullah Ahmed!
 
-## 🚀 About Me  
-I'm a **Flutter Developer** passionate about building **high-performance, cross-platform** mobile applications. I specialize in creating **intuitive UI/UX designs**, integrating **RESTful APIs**, and implementing **state management solutions** such as **Provider, Riverpod, and Bloc**. With experience in **Firebase, Supabase**, and backend services, I aim to develop scalable and maintainable applications.  
+## 🚀 About Me
 
-## 💼 Experience  
+I'm a **Flutter Developer** passionate about creating **high-performance, cross-platform mobile applications**. My expertise lies in **clean architecture**, **state management solutions (Bloc, Provider)**, and integrating robust backend services like **Firebase and Supabase**. I thrive in collaborative environments and excel at transforming innovative concepts into intuitive and responsive applications.
 
-### **ZagSystems | Sep 2024 – Feb 2025**  
-**Flutter Mentorship Program (Internship) | Remote**  
-- Completed a **3-month intensive mentorship program**, working on real-world Flutter projects.  
-- Mastered key concepts such as:  
-  - **State management** using **Bloc**.  
-  - **Pagination** for efficient data handling.  
-  - **Clean Architecture** for scalable code.  
-  - **Agile teamwork and collaboration** in a professional setting.  
-- Developed advanced problem-solving skills and the ability to meet tight deadlines.  
+## 💼 Experience
 
-### **Freelance Flutter Developer | 2024**  
-🚗 **Rent Cars App**  
-- Designed and developed a **cross-platform car rental app** for **Android and Windows** using **Flutter & Dart**.  
-- Integrated **Firebase** and **RESTful APIs** for real-time data management.  
-- Implemented **state management** with **Provider & Bloc** for enhanced app performance.  
+### **ZagSystems | Sep 2024 – Feb 2025**
 
-## 📌 Personal Projects  
-📌 **To-Do App**  
-- Developed a **task management app** using **Flutter & Supabase**.  
-- Implemented **real-time task sharing** and **sync updates** via Supabase.  
+**Flutter Developer – Mentorship Program | Remote**
 
-🌦️ **Weather App**  
-- Built a **weather application** using **Flutter & Weather API**.  
-- Efficiently managed state using **Cubit**.  
+* Designed and developed a responsive **cross-platform car rental app**.
+* Utilized **Bloc** for state management and applied **clean architecture** principles.
+* Integrated **REST APIs** and ensured **real-time data management** with Firebase Firestore.
+* Optimized app performance through **lazy loading** and **modular design**.
 
-📱 **Social Media App**  
-- Developed a **Flutter-based social media application** integrated with a **backend system**.  
+### **MICA – Misr International Computer & AI | Jan 2023 – Feb 2025**
 
-## 🎓 Education  
-🎓 **New Cairo Technology University (NCTU) | 2023—2027**  
-- Pursuing a **Bachelor’s degree in IT/Software Engineering**.  
+**Arduino Course Instructor | Cairo, Egypt**
 
-## 🛠️ Tech Stack & Skills  
-- **Languages & Frameworks:** Flutter, Dart, Java, Python, C, Arduino, SQL/MySQL  
-- **State Management:** Provider, Riverpod, Bloc, Cubit  
-- **Backend Services:** Firebase, Supabase, RESTful APIs  
-- **CI/CD & Deployment:** GitHub Actions, Firebase App Distribution  
-- **Soft Skills:** Problem-solving, teamwork, adaptability  
+* Conducted hands-on Arduino workshops for over **100 students**.
+* Developed interactive instructional content emphasizing real-time embedded systems.
 
-## 🏆 Certifications  
-- ✅ **ZagSystems:** Flutter Mentorship Program (2024)  
-- ✅ **Oracle:** Java Fundamentals, SQL Programming, Database Design  
-- ✅ **Microsoft:** Introduction to Java, Database Administration  
-- ✅ **PL/SQL:** Database Programming  
+## 📌 Personal Projects
 
-## 📫 Let's Connect!  
-💼 www.linkedin.com/in/abdullah-ahmed59 | 📧 end.abdullahahmed59@gmail.com  
+### 🚗 **Rent Cars App**
 
-🚀 **Always eager to learn and collaborate on exciting Flutter projects!**  
+* Full-stack cross-platform app built with **Flutter and Node.js/Express**.
+* Integrated **Cloudinary** for dynamic media handling and **Firebase Firestore** for real-time updates.
+* Ensured scalability with **Provider** and clean architecture.
+
+### 🤟 **Sign Wave Translator**
+
+* Real-time sign language translation app using **Firebase** and **ZegoCloud**.
+* Implemented secure authentication, data storage, and push notifications.
+
+### 📌 **To-Do App with Real-Time Collaboration**
+
+* Real-time syncing and collaborative task manager leveraging **Supabase** and **Bloc**.
+
+### 📱 **Social Mate**
+
+* Social media application designed with clean architecture for scalability, offline support, and role-based access.
+
+## 🎓 Education
+
+* 🎓 **Bachelor of Science in Information & Communications Technology (ICT)**
+
+  * **New Cairo Technology University (NCTU)** | Expected Graduation: June 2027
+* 🎓 **High School Diploma – Computer Programming**
+
+  * **MICA – Misr International Computer & AI** | Graduated: June 2023
+
+## 🛠️ Tech Stack & Skills
+
+* **Languages & Frameworks:** Flutter, Dart, Node.js, JavaScript
+* **State Management:** Bloc, Provider, Cubit
+* **Architecture Patterns:** Clean Architecture, MVVM
+* **Backend & Databases:** Firebase, Supabase, SQLite, Hive, MySQL
+* **Dev Tools:** Git, VS Code, Postman
+* **CI/CD & Deployment:** Firebase Cloud Messaging (FCM), GitHub Actions
+* **Features & Capabilities:** Real-time data sync, Offline support, REST API integration, Secure authentication, Role-based access control
+
+## 🏆 Certifications
+
+* ✅ **Flutter Mentorship Program (ZagSystems, 2024)**
+* ✅ **Java Fundamentals & SQL Programming (Oracle)**
+* ✅ **Database Administration (Microsoft)**
+* ✅ **PL/SQL Database Programming**
+
+## 📫 Let's Connect!
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/abdullah-ahmed59)
+* 📧 [eng.abdullahahmed59@gmail.com](mailto:eng.abdullahahmed59@gmail.com)
+* 💻 [GitHub](https://github.com/Abdullah-T3) | 🌐 [Portfolio](https://abdullah-ahmed-t3.vercel.app)
+
+🚀 **Always eager to collaborate and innovate in the world of Flutter!**
